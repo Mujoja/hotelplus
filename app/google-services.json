@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573771626673",
+    "project_id": "hotelplus3-8dc97",
+    "storage_bucket": "hotelplus3-8dc97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573771626673:android:d073954ede1bf3337cca90",
+        "android_client_info": {
+          "package_name": "com.example.hotelplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQb5RfG9glbu-TUCGiDpMvjNfiPBo6ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
